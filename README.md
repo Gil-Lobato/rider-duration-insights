@@ -2,6 +2,7 @@
 [![View Site](https://img.shields.io/badge/View-Site-blue)](https://gil-lobato.github.io/rider-duration-insights/)
 ![R](https://img.shields.io/badge/Built%20with-R-1f425f?logo=r)
 ![Excel](https://img.shields.io/badge/Excel-Model-green?logo=microsoft-excel)
+
 **Exploring Urban Mobility Patterns with R and Scalable Analytics**
 
 
