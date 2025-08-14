@@ -1,5 +1,8 @@
 # 🚴 Rider Duration Insights  
 **Exploring Urban Mobility Patterns with R and Scalable Analytics**
+[![View Site](https://img.shields.io/badge/View-Site-blue)](https://gil-lobato.github.io/rider-duration-insights/)
+![R](https://img.shields.io/badge/Built%20with-R-1f425f?logo=r)
+![Excel](https://img.shields.io/badge/Excel-Model-green?logo=microsoft-excel)
 
 ## 📌 Overview  
 This project analyses rider behaviour in a city bike-share system, focusing on trip durations, station pairings, and temporal trends. It’s part of my data analytics portfolio, showcasing reproducible workflows, stakeholder-ready insights, and a structured approach to problem-solving.
